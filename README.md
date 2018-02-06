@@ -1,9 +1,40 @@
-# docker-mysql
+# Docker Image packaging for MySQL
 
-Base Image: mysql:latest
 
-Docker Pull Command
+基于官方镜像 Based Official Image
 
 ```bash
-docker pull songshenzong/mysql
+    mysql:latest
+```
+
+
+
+官网 Docker
+
+```bash
+    docker pull songshenzong/mysql
+```
+
+
+
+阿里云公网 Alibaba Cloud Internet
+
+```bash
+    docker pull registry.cn-beijing.aliyuncs.com/songshenzong/mysql
+```
+
+
+
+阿里云经典内网 Alibaba Cloud Intranet
+
+```bash
+    docker pull registry-internal.cn-beijing.aliyuncs.com/songshenzong/mysql
+```
+
+
+
+阿里云VPC网络 Alibaba Cloud VPC Network
+
+```bash
+    docker pull registry-vpc.cn-beijing.aliyuncs.com/songshenzong/mysql
 ```
