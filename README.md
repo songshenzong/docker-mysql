@@ -1,5 +1,7 @@
 # Docker Image packaging for MySQL
 
+![docker hub](https://img.shields.io/docker/pulls/songshenzong/mysql.svg?style=flat-square)
+![docker hub](https://img.shields.io/docker/stars/songshenzong/mysql.svg?style=flat-square)
 
 ##### 基于官方镜像 Based Official Image
 
