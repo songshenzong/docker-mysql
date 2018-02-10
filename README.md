@@ -24,13 +24,11 @@ docker pull registry.cn-beijing.aliyuncs.com/songshenzong/mysql
 ```
 
 
-
 ##### 阿里云经典内网 Alibaba Cloud Intranet
 
 ```bash
 docker pull registry-internal.cn-beijing.aliyuncs.com/songshenzong/mysql
 ```
-
 
 
 ##### 阿里云VPC网络 Alibaba Cloud VPC Network
